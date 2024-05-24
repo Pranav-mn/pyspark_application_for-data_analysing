@@ -1,0 +1,36 @@
+Expertzlab-Asianet   :   Net33@Key
+
+
+html - hyper text markup language       <name> pranav </name>
+css  - cascading style sheet
+js   - javascript language  (programming language)   loop,condition,fn
+
+
+html  -structure of webpage
+css   -style of our webpage
+js    -functionalities of our page
+
+
+<html>    -- metatag/roottag/parent tag
+    <head> titile, metadata,files </head>   -child 1
+
+    <body>  webpage design </body>   -child 2
+</html>
+
+<body>
+    <name>
+        <fname>pranav</fname>
+        <lname>mn</lname>
+    </name>
+</body>
+
+
+<fname>    pranav    </fname>
+opentag    content    closetag     ---> element
+
+ide  - integrated developement environment
+
+vscode
+
+
+
